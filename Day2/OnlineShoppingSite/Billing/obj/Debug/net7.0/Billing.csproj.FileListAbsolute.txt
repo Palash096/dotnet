@@ -1,0 +1,15 @@
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\bin\Debug\net7.0\Billing.exe
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\bin\Debug\net7.0\Billing.deps.json
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\bin\Debug\net7.0\Billing.runtimeconfig.json
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\bin\Debug\net7.0\Billing.dll
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\bin\Debug\net7.0\Billing.pdb
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\obj\Debug\net7.0\Billing.csproj.AssemblyReference.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\obj\Debug\net7.0\Billing.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\obj\Debug\net7.0\Billing.AssemblyInfoInputs.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\obj\Debug\net7.0\Billing.AssemblyInfo.cs
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\obj\Debug\net7.0\Billing.csproj.CoreCompileInputs.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\obj\Debug\net7.0\Billing.dll
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\obj\Debug\net7.0\refint\Billing.dll
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\obj\Debug\net7.0\Billing.pdb
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\obj\Debug\net7.0\Billing.genruntimeconfig.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Billing\obj\Debug\net7.0\ref\Billing.dll

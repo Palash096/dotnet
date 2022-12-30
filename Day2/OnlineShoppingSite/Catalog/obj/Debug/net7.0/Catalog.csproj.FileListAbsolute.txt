@@ -1,0 +1,15 @@
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\bin\Debug\net7.0\Catalog.exe
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\bin\Debug\net7.0\Catalog.deps.json
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\bin\Debug\net7.0\Catalog.runtimeconfig.json
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\bin\Debug\net7.0\Catalog.dll
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\bin\Debug\net7.0\Catalog.pdb
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\obj\Debug\net7.0\Catalog.csproj.AssemblyReference.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\obj\Debug\net7.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\obj\Debug\net7.0\Catalog.AssemblyInfoInputs.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\obj\Debug\net7.0\Catalog.AssemblyInfo.cs
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\obj\Debug\net7.0\Catalog.csproj.CoreCompileInputs.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\obj\Debug\net7.0\Catalog.dll
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\obj\Debug\net7.0\refint\Catalog.dll
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\obj\Debug\net7.0\Catalog.pdb
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\obj\Debug\net7.0\Catalog.genruntimeconfig.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\Catalog\obj\Debug\net7.0\ref\Catalog.dll

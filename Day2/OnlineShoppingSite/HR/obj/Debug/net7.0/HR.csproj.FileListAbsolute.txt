@@ -1,0 +1,15 @@
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\bin\Debug\net7.0\HR.exe
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\bin\Debug\net7.0\HR.deps.json
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\bin\Debug\net7.0\HR.runtimeconfig.json
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\bin\Debug\net7.0\HR.dll
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\bin\Debug\net7.0\HR.pdb
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\obj\Debug\net7.0\HR.csproj.AssemblyReference.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\obj\Debug\net7.0\HR.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\obj\Debug\net7.0\HR.AssemblyInfoInputs.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\obj\Debug\net7.0\HR.AssemblyInfo.cs
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\obj\Debug\net7.0\HR.csproj.CoreCompileInputs.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\obj\Debug\net7.0\HR.dll
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\obj\Debug\net7.0\refint\HR.dll
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\obj\Debug\net7.0\HR.pdb
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\obj\Debug\net7.0\HR.genruntimeconfig.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\HR\obj\Debug\net7.0\ref\HR.dll

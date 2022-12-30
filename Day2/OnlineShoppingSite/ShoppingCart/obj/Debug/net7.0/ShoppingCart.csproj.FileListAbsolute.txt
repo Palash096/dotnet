@@ -1,0 +1,15 @@
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\bin\Debug\net7.0\ShoppingCart.exe
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\bin\Debug\net7.0\ShoppingCart.deps.json
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\bin\Debug\net7.0\ShoppingCart.runtimeconfig.json
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\bin\Debug\net7.0\ShoppingCart.dll
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\bin\Debug\net7.0\ShoppingCart.pdb
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\obj\Debug\net7.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\obj\Debug\net7.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\obj\Debug\net7.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\obj\Debug\net7.0\ShoppingCart.AssemblyInfo.cs
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\obj\Debug\net7.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\obj\Debug\net7.0\ShoppingCart.dll
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\obj\Debug\net7.0\refint\ShoppingCart.dll
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\obj\Debug\net7.0\ShoppingCart.pdb
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\obj\Debug\net7.0\ShoppingCart.genruntimeconfig.cache
+C:\.NET\dotnet\Day2\OnlineShoppingSite\ShoppingCart\obj\Debug\net7.0\ref\ShoppingCart.dll
