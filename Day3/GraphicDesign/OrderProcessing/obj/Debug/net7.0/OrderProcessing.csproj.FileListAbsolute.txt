@@ -1,0 +1,12 @@
+C:\.NET\dotnet\Day3\GraphicDesign\OrderProcessing\obj\Debug\net7.0\OrderProcessing.csproj.AssemblyReference.cache
+C:\.NET\dotnet\Day3\GraphicDesign\OrderProcessing\obj\Debug\net7.0\OrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\dotnet\Day3\GraphicDesign\OrderProcessing\obj\Debug\net7.0\OrderProcessing.AssemblyInfoInputs.cache
+C:\.NET\dotnet\Day3\GraphicDesign\OrderProcessing\obj\Debug\net7.0\OrderProcessing.AssemblyInfo.cs
+C:\.NET\dotnet\Day3\GraphicDesign\OrderProcessing\obj\Debug\net7.0\OrderProcessing.csproj.CoreCompileInputs.cache
+C:\.NET\dotnet\Day3\GraphicDesign\OrderProcessing\bin\Debug\net7.0\OrderProcessing.deps.json
+C:\.NET\dotnet\Day3\GraphicDesign\OrderProcessing\bin\Debug\net7.0\OrderProcessing.dll
+C:\.NET\dotnet\Day3\GraphicDesign\OrderProcessing\bin\Debug\net7.0\OrderProcessing.pdb
+C:\.NET\dotnet\Day3\GraphicDesign\OrderProcessing\obj\Debug\net7.0\OrderProcessing.dll
+C:\.NET\dotnet\Day3\GraphicDesign\OrderProcessing\obj\Debug\net7.0\refint\OrderProcessing.dll
+C:\.NET\dotnet\Day3\GraphicDesign\OrderProcessing\obj\Debug\net7.0\OrderProcessing.pdb
+C:\.NET\dotnet\Day3\GraphicDesign\OrderProcessing\obj\Debug\net7.0\ref\OrderProcessing.dll
