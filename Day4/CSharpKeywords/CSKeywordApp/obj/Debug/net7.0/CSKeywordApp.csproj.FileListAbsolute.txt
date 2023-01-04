@@ -1,0 +1,15 @@
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\obj\Debug\net7.0\CSKeywordApp.csproj.AssemblyReference.cache
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\obj\Debug\net7.0\CSKeywordApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\obj\Debug\net7.0\CSKeywordApp.AssemblyInfoInputs.cache
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\obj\Debug\net7.0\CSKeywordApp.AssemblyInfo.cs
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\obj\Debug\net7.0\CSKeywordApp.csproj.CoreCompileInputs.cache
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\bin\Debug\net7.0\CSKeywordApp.exe
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\bin\Debug\net7.0\CSKeywordApp.deps.json
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\bin\Debug\net7.0\CSKeywordApp.runtimeconfig.json
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\bin\Debug\net7.0\CSKeywordApp.dll
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\bin\Debug\net7.0\CSKeywordApp.pdb
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\obj\Debug\net7.0\CSKeywordApp.dll
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\obj\Debug\net7.0\refint\CSKeywordApp.dll
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\obj\Debug\net7.0\CSKeywordApp.pdb
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\obj\Debug\net7.0\CSKeywordApp.genruntimeconfig.cache
+C:\.NET\dotnet\Day4\CSharpKeywords\CSKeywordApp\obj\Debug\net7.0\ref\CSKeywordApp.dll

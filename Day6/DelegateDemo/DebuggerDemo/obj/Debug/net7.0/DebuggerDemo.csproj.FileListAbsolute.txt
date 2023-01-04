@@ -1,0 +1,15 @@
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\bin\Debug\net7.0\DebuggerDemo.exe
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\bin\Debug\net7.0\DebuggerDemo.deps.json
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\bin\Debug\net7.0\DebuggerDemo.runtimeconfig.json
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\bin\Debug\net7.0\DebuggerDemo.dll
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\bin\Debug\net7.0\DebuggerDemo.pdb
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\obj\Debug\net7.0\DebuggerDemo.csproj.AssemblyReference.cache
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\obj\Debug\net7.0\DebuggerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\obj\Debug\net7.0\DebuggerDemo.AssemblyInfoInputs.cache
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\obj\Debug\net7.0\DebuggerDemo.AssemblyInfo.cs
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\obj\Debug\net7.0\DebuggerDemo.csproj.CoreCompileInputs.cache
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\obj\Debug\net7.0\DebuggerDemo.dll
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\obj\Debug\net7.0\refint\DebuggerDemo.dll
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\obj\Debug\net7.0\DebuggerDemo.pdb
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\obj\Debug\net7.0\DebuggerDemo.genruntimeconfig.cache
+C:\.NET\dotnet\Day6\DelegateDemo\DebuggerDemo\obj\Debug\net7.0\ref\DebuggerDemo.dll

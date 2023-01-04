@@ -1,0 +1,15 @@
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\bin\Debug\net7.0\BankEvents.exe
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\bin\Debug\net7.0\BankEvents.deps.json
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\bin\Debug\net7.0\BankEvents.runtimeconfig.json
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\bin\Debug\net7.0\BankEvents.dll
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\bin\Debug\net7.0\BankEvents.pdb
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\obj\Debug\net7.0\BankEvents.csproj.AssemblyReference.cache
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\obj\Debug\net7.0\BankEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\obj\Debug\net7.0\BankEvents.AssemblyInfoInputs.cache
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\obj\Debug\net7.0\BankEvents.AssemblyInfo.cs
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\obj\Debug\net7.0\BankEvents.csproj.CoreCompileInputs.cache
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\obj\Debug\net7.0\BankEvents.dll
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\obj\Debug\net7.0\refint\BankEvents.dll
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\obj\Debug\net7.0\BankEvents.pdb
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\obj\Debug\net7.0\BankEvents.genruntimeconfig.cache
+C:\.NET\dotnet\Day6\DelegateDemo\BankApp\BankEvents\obj\Debug\net7.0\ref\BankEvents.dll
