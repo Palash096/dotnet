@@ -1,0 +1,15 @@
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\bin\Debug\net7.0\Tester.exe
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\bin\Debug\net7.0\Tester.deps.json
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\bin\Debug\net7.0\Tester.runtimeconfig.json
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\bin\Debug\net7.0\Tester.dll
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\bin\Debug\net7.0\Tester.pdb
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\obj\Debug\net7.0\Tester.csproj.AssemblyReference.cache
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\obj\Debug\net7.0\Tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\obj\Debug\net7.0\Tester.AssemblyInfoInputs.cache
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\obj\Debug\net7.0\Tester.AssemblyInfo.cs
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\obj\Debug\net7.0\Tester.csproj.CoreCompileInputs.cache
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\obj\Debug\net7.0\Tester.dll
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\obj\Debug\net7.0\refint\Tester.dll
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\obj\Debug\net7.0\Tester.pdb
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\obj\Debug\net7.0\Tester.genruntimeconfig.cache
+C:\.NET\dotnet\Day7\ThreadDemo\Tester\obj\Debug\net7.0\ref\Tester.dll

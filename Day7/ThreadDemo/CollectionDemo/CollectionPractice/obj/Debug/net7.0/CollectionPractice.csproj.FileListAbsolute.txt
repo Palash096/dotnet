@@ -1,0 +1,15 @@
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\bin\Debug\net7.0\CollectionPractice.exe
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\bin\Debug\net7.0\CollectionPractice.deps.json
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\bin\Debug\net7.0\CollectionPractice.runtimeconfig.json
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\bin\Debug\net7.0\CollectionPractice.dll
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\bin\Debug\net7.0\CollectionPractice.pdb
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\obj\Debug\net7.0\CollectionPractice.csproj.AssemblyReference.cache
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\obj\Debug\net7.0\CollectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\obj\Debug\net7.0\CollectionPractice.AssemblyInfoInputs.cache
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\obj\Debug\net7.0\CollectionPractice.AssemblyInfo.cs
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\obj\Debug\net7.0\CollectionPractice.csproj.CoreCompileInputs.cache
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\obj\Debug\net7.0\CollectionPractice.dll
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\obj\Debug\net7.0\refint\CollectionPractice.dll
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\obj\Debug\net7.0\CollectionPractice.pdb
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\obj\Debug\net7.0\CollectionPractice.genruntimeconfig.cache
+C:\.NET\dotnet\Day7\ThreadDemo\CollectionDemo\CollectionPractice\obj\Debug\net7.0\ref\CollectionPractice.dll

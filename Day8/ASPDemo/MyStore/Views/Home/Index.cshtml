@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to MyStore.com</h1>
+    <p>Sign Up <a href="https://www.google.com/">here</a> to see all goodies.</p>
+</div>
+<div>
+    <ol>
+        <li>One Plus</li>
+        <li>Xiaomi</li>
+        <li>Samsung</li>
+    </ol>
+
+    <Console class="Write"><b>Bootstrap list-group</b></Console>
+
+    <ul class="list-group">
+        <li class="list-group-item">An item</li>
+        <li class="list-group-item">A second item</li>
+        <li class="list-group-item">A third item</li>
+        <li class="list-group-item">A fourth item</li>
+        <li class="list-group-item">And a fifth one</li>
+    </ul>
+
+    <Console class="Write"><b>List of watches</b></Console>
+    @{
+        List<string> watches = new List<string>();
+            watches.Add("FastTrack");
+            watches.Add("WROGN");
+            watches.Add("Titan");
+            <ol>
+                @foreach (string watch in watches)
+                {
+                    <li>@watch</li>
+                }
+            </ol>
+    }
+
+    <img src="/image/ScrumFramework.jfif" alt="Image Not Found">
+</div>
