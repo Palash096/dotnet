@@ -1,0 +1,17 @@
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\bin\Debug\net7.0\BLL.dll
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\bin\Debug\net7.0\BLL.pdb
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\bin\Debug\net7.0\BOL.dll
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\bin\Debug\net7.0\DAL.dll
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\bin\Debug\net7.0\BOL.pdb
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\bin\Debug\net7.0\DAL.pdb
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\obj\Debug\net7.0\BLL.dll
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\obj\Debug\net7.0\BLL.pdb
+C:\.NET\dotnet\Day11\TestDbMVC\BLL\obj\Debug\net7.0\ref\BLL.dll

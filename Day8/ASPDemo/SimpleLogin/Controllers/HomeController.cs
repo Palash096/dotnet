@@ -39,6 +39,12 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult Registration()
+    {
+        Console.WriteLine("Invoking Home Controller Registration method. ");
+        return View();
+    }
+
     public IActionResult Welcome()
     {
         Console.WriteLine("Invoking Home Controller Welcome method. ");

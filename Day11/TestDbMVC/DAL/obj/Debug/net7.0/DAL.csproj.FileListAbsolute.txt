@@ -1,0 +1,15 @@
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\bin\Debug\net7.0\DAL.dll
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\bin\Debug\net7.0\DAL.pdb
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\bin\Debug\net7.0\BOL.dll
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\bin\Debug\net7.0\BOL.pdb
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\obj\Debug\net7.0\DAL.dll
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\obj\Debug\net7.0\DAL.pdb
+C:\.NET\dotnet\Day11\TestDbMVC\DAL\obj\Debug\net7.0\ref\DAL.dll

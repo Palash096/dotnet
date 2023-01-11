@@ -1,0 +1,12 @@
+C:\.NET\dotnet\Day5\SerializationDemo\ProductCatalog\bin\Debug\net7.0\ProductCatalog.deps.json
+C:\.NET\dotnet\Day5\SerializationDemo\ProductCatalog\bin\Debug\net7.0\ProductCatalog.dll
+C:\.NET\dotnet\Day5\SerializationDemo\ProductCatalog\bin\Debug\net7.0\ProductCatalog.pdb
+C:\.NET\dotnet\Day5\SerializationDemo\ProductCatalog\obj\Debug\net7.0\ProductCatalog.csproj.AssemblyReference.cache
+C:\.NET\dotnet\Day5\SerializationDemo\ProductCatalog\obj\Debug\net7.0\ProductCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\dotnet\Day5\SerializationDemo\ProductCatalog\obj\Debug\net7.0\ProductCatalog.AssemblyInfoInputs.cache
+C:\.NET\dotnet\Day5\SerializationDemo\ProductCatalog\obj\Debug\net7.0\ProductCatalog.AssemblyInfo.cs
+C:\.NET\dotnet\Day5\SerializationDemo\ProductCatalog\obj\Debug\net7.0\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\.NET\dotnet\Day5\SerializationDemo\ProductCatalog\obj\Debug\net7.0\ProductCatalog.dll
+C:\.NET\dotnet\Day5\SerializationDemo\ProductCatalog\obj\Debug\net7.0\refint\ProductCatalog.dll
+C:\.NET\dotnet\Day5\SerializationDemo\ProductCatalog\obj\Debug\net7.0\ProductCatalog.pdb
+C:\.NET\dotnet\Day5\SerializationDemo\ProductCatalog\obj\Debug\net7.0\ref\ProductCatalog.dll
